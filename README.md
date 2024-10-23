@@ -12,7 +12,7 @@ This project involves predicting the stock prices of Telkom Indonesia (TLKM.JK) 
   - `pandas`: For data manipulation
   - `matplotlib`: For data visualization
   - `scikit-learn`: For preprocessing and splitting data
-  - `tensorflow`: For building and training the LSTM model
+  - `keras`: For building and training the LSTM model
 
 ## Instructions
 1. Clone the repository.
